@@ -1,3 +1,6 @@
+ h1 {
+        text-align: center;
+    }
 .comparison-container {
         display: flex;
       grid-template-columns: repeat(4, 1fr);
